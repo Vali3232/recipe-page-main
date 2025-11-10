@@ -254,7 +254,7 @@ main p{
     background-color: var(--accent-50);
     padding-block: var(--padding);
     text-align: center;
-    font-size: var(--h2-list);
+    font-size: var(--p);
     border-top: 1px solid var(--accent-400);
 }
 
@@ -295,7 +295,7 @@ main p{
     }       
 
     .attribution{
-        font-size: var(--p);
+        font-size: var(--h2-list);
     }
         
 }
