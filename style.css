@@ -45,7 +45,7 @@
 
     /*Font Sisez*/
     --h1: 2.2rem;
-    --p: 1.6rem;
+    --p: 1rem;
     --h2-list: 1.8rem;
 }
 
@@ -271,7 +271,7 @@ main p{
 
 @media (min-width: 1024px){
     :root{
-        --p: 1rem;
+        --p: 1.6rem;
     }
 
     body{
@@ -292,10 +292,7 @@ main p{
 
     img{
         border-radius: 1.5rem;;
-    }
-
-    --
-            
+    }       
         
 }
 
