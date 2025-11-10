@@ -270,6 +270,10 @@ main p{
 }
 
 @media (min-width: 1024px){
+    :root{
+        --p: 1.2rem;
+    }
+
     body{
         background-color: var(--neutral-100);
     }
@@ -289,6 +293,8 @@ main p{
     img{
         border-radius: 1.5rem;;
     }
+
+    --
             
         
 }
