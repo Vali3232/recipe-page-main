@@ -293,6 +293,10 @@ main p{
     img{
         border-radius: 1.5rem;;
     }       
+
+    .attribution{
+        font-size: var(--p);
+    }
         
 }
 
