@@ -44,7 +44,7 @@
     --margin-list: 1.6rem;
 
     /*Font Sisez*/
-    --h1: 2.2rem;
+    --h1: 1.6rem;
     --p: 1rem;
     --h2-list: 1.8rem;
 }
@@ -73,7 +73,7 @@ main{
 main h1{
     font-family: "young";
     line-height: 1;
-    font-size: var(--h2-list);
+    font-size: var(--h1);
     color: var(--neutral-900);
 }
 
